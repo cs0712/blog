@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Lotso&#x27;s Blog",
+    "description": "",
+    "home_page_url": "https://github.com/cs0712/lotso.github.io.git",
+    "feed_url": "https://github.com/cs0712/lotso.github.io.git/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Lotso"
+    },
+    "items": [
+    ]
+}
