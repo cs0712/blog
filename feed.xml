@@ -1,12 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Lotso&#x27;s Blog</title>
-    <link href="https://github.com/cs0712/lotso.github.io.git/feed.xml" rel="self" />
-    <link href="https://github.com/cs0712/lotso.github.io.git" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <link href="https://cs0712.github.io/blog/feed.xml" rel="self" />
+    <link href="https://cs0712.github.io/blog" />
+    <updated>2025-10-20T02:17:15+08:00</updated>
     <author>
         <name>Lotso</name>
     </author>
-    <id>https://github.com/cs0712/lotso.github.io.git</id>
+    <id>https://cs0712.github.io/blog</id>
 
+    <entry>
+        <title>123</title>
+        <author>
+            <name>Lotso</name>
+        </author>
+        <link href="https://cs0712.github.io/blog/123.html"/>
+        <id>https://cs0712.github.io/blog/123.html</id>
+
+        <updated>2025-10-20T02:17:15+08:00</updated>
+            <summary>
+                <![CDATA[
+                    213
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>213</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
